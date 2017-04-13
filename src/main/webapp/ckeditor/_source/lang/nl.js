@@ -65,11 +65,11 @@ CKEDITOR.lang['nl'] =
 	// Common messages and labels.
 	common :
 	{
-		browseServer	: 'Bladeren op server',
+		browseServer	: 'Bladeren op service',
 		url				: 'URL',
 		protocol		: 'Protocol',
 		upload			: 'Upload',
-		uploadSubmit	: 'Naar server verzenden',
+		uploadSubmit	: 'Naar service verzenden',
 		image			: 'Afbeelding',
 		flash			: 'Flash',
 		form			: 'Formulier',
@@ -416,7 +416,7 @@ CKEDITOR.lang['nl'] =
 		titleButton	: 'Eigenschappen afbeeldingsknop',
 		menu		: 'Eigenschappen afbeelding',
 		infoTab		: 'Informatie afbeelding',
-		btnUpload	: 'Naar server verzenden',
+		btnUpload	: 'Naar service verzenden',
 		upload		: 'Upload',
 		alt			: 'Alternatieve tekst',
 		lockRatio	: 'Afmetingen vergrendelen',
@@ -712,7 +712,7 @@ CKEDITOR.lang['nl'] =
 		dic_restore		: 'Terugzetten',
 		dic_delete		: 'Verwijderen',
 		dic_rename		: 'Hernoemen',
-		dic_info		: 'Initieel wordt het gebruikerswoordenboek opgeslagen in een cookie. Cookies zijn echter beperkt in grootte. Zodra het gebruikerswoordenboek het punt bereikt waarop het niet meer in een cookie opgeslagen kan worden, dan wordt het woordenboek op de server opgeslagen. Om je persoonlijke woordenboek op je eigen server op te slaan, moet je een mapnaam opgeven. Indien je al een woordenboek hebt opgeslagen, typ dan de naam en klik op de Terugzetten knop.',
+		dic_info		: 'Initieel wordt het gebruikerswoordenboek opgeslagen in een cookie. Cookies zijn echter beperkt in grootte. Zodra het gebruikerswoordenboek het punt bereikt waarop het niet meer in een cookie opgeslagen kan worden, dan wordt het woordenboek op de service opgeslagen. Om je persoonlijke woordenboek op je eigen service op te slaan, moet je een mapnaam opgeven. Indien je al een woordenboek hebt opgeslagen, typ dan de naam en klik op de Terugzetten knop.',
 
 		aboutTab		: 'Over'
 	},

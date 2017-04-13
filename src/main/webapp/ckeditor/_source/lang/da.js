@@ -712,7 +712,7 @@ CKEDITOR.lang['da'] =
 		dic_restore		: 'Gendan',
 		dic_delete		: 'Slet',
 		dic_rename		: 'Omdøb',
-		dic_info		: 'Til start er brugerordbogen gemt i en Cookie. Dog har Cookies en begrænsning på størrelse. Når ordbogen når en bestemt størrelse kan den blive gemt på vores server. For at gemme din personlige ordbog på vores server skal du angive et navn for denne. Såfremt du allerede har gemt en ordbog, skriv navnet på denne og klik på Gendan knappen.',
+		dic_info		: 'Til start er brugerordbogen gemt i en Cookie. Dog har Cookies en begrænsning på størrelse. Når ordbogen når en bestemt størrelse kan den blive gemt på vores service. For at gemme din personlige ordbog på vores service skal du angive et navn for denne. Såfremt du allerede har gemt en ordbog, skriv navnet på denne og klik på Gendan knappen.',
 
 		aboutTab		: 'Om'
 	},

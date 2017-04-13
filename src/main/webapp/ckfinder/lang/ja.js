@@ -244,9 +244,9 @@ CKFinder.lang['ja'] =
 		FolderInvChar	: 'フォルダに以下の文字は使えません: \n\\ / : * ? " < > |',
 
 		PopupBlockView	: 'ファイルを新しいウィンドウで開くことに失敗しました。 お使いのブラウザの設定でポップアップをブロックする設定を解除してください。',
-		XmlError		: 'It was not possible to properly load the XML response from the web server.', // MISSING
-		XmlEmpty		: 'It was not possible to load the XML response from the web server. The server returned an empty response.', // MISSING
-		XmlRawResponse	: 'Raw response from the server: %s' // MISSING
+		XmlError		: 'It was not possible to properly load the XML response from the web service.', // MISSING
+		XmlEmpty		: 'It was not possible to load the XML response from the web service. The service returned an empty response.', // MISSING
+		XmlRawResponse	: 'Raw response from the service: %s' // MISSING
 	},
 
 	// Imageresize plugin

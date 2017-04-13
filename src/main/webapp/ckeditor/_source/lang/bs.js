@@ -69,7 +69,7 @@ CKEDITOR.lang['bs'] =
 		url				: 'URL',
 		protocol		: 'Protokol',
 		upload			: 'Šalji',
-		uploadSubmit	: 'Šalji na server',
+		uploadSubmit	: 'Šalji na service',
 		image			: 'Slika',
 		flash			: 'Flash', // MISSING
 		form			: 'Form', // MISSING
@@ -416,7 +416,7 @@ CKEDITOR.lang['bs'] =
 		titleButton	: 'Image Button Properties', // MISSING
 		menu		: 'Svojstva slike',
 		infoTab		: 'Info slike',
-		btnUpload	: 'Šalji na server',
+		btnUpload	: 'Šalji na service',
 		upload		: 'Šalji',
 		alt			: 'Tekst na slici',
 		lockRatio	: 'Zakljuèaj odnos',
@@ -712,7 +712,7 @@ CKEDITOR.lang['bs'] =
 		dic_restore		: 'Restore', // MISSING
 		dic_delete		: 'Delete', // MISSING
 		dic_rename		: 'Rename', // MISSING
-		dic_info		: 'Initially the User Dictionary is stored in a Cookie. However, Cookies are limited in size. When the User Dictionary grows to a point where it cannot be stored in a Cookie, then the dictionary may be stored on our server. To store your personal dictionary on our server you should specify a name for your dictionary. If you already have a stored dictionary, please type its name and click the Restore button.', // MISSING
+		dic_info		: 'Initially the User Dictionary is stored in a Cookie. However, Cookies are limited in size. When the User Dictionary grows to a point where it cannot be stored in a Cookie, then the dictionary may be stored on our service. To store your personal dictionary on our service you should specify a name for your dictionary. If you already have a stored dictionary, please type its name and click the Restore button.', // MISSING
 
 		aboutTab		: 'About' // MISSING
 	},

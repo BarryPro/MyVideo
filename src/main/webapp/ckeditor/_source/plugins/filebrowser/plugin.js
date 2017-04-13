@@ -49,7 +49,7 @@ For licensing, see LICENSE.html or http://ckeditor.com/license
  * <ul>
  * <li><code>action</code> &ndash; <code>Browse</code> or <code>QuickUpload</code>.</li>
  * <li><code>target</code> &ndash; the field to update in the <code><em>tabId:elementId</em></code> format.</li>
- * <li><code>params</code> &ndash; additional arguments to be passed to the server connector (optional).</li>
+ * <li><code>params</code> &ndash; additional arguments to be passed to the service connector (optional).</li>
  * <li><code>onSelect</code> &ndash; a function to execute when the file is selected/uploaded (optional).</li>
  * <li><code>url</code> &ndash; the URL to be called (optional).</li>
  * </ul>

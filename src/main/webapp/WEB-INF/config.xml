@@ -8,7 +8,7 @@
 	3. Enable CKFinder using the "enabled" setting.
 
 	WARNING : DO NOT simply set "enabled" to "true" on a production site. By doing so, you 
-	are allowing "anyone" to upload and list the files in your server. You must implement
+	are allowing "anyone" to upload and list the files in your service. You must implement
 	some kind of session validation.
 	http://docs.cksource.com/CKFinder_2.x/Developers_Guide/Java/Configuration/Extending
 	-->
@@ -114,9 +114,9 @@
 		<quality>80</quality>
 	</thumbs>
 	<!--
-	Increases the security on an IIS web server.
+	Increases the security on an IIS web service.
 	If enabled, CKFinder will disallow creating folders and uploading files whose names contain characters 
-	that are not safe under an IIS web server.
+	that are not safe under an IIS web service.
 	-->
 	<disallowUnsafeCharacters>false</disallowUnsafeCharacters>
 	<!--
@@ -194,7 +194,7 @@
 			<params></params>
 		</plugin>
 		<!-- Before enabling the watermark plugin make sure to specify path to source image -->
-		<!-- The "internal" flag informs CKFinder that watermark is a pure server side plugin -->
+		<!-- The "internal" flag informs CKFinder that watermark is a pure service side plugin -->
 		<!--
 		<plugin>
 			<name>watermark</name>

@@ -222,7 +222,7 @@ CKFinder.lang['en'] =
 	202 : 'Invalid file.',
 	203 : 'Invalid file. The file size is too big.',
 	204 : 'The uploaded file is corrupt.',
-	205 : 'No temporary folder is available for upload in the server.',
+	205 : 'No temporary folder is available for upload in the service.',
 	206 : 'Upload cancelled due to security reasons. The file contains HTML-like data.',
 	207 : 'The uploaded file was renamed to "%1".',
 	300 : 'Moving file(s) failed.',
@@ -244,9 +244,9 @@ CKFinder.lang['en'] =
 		FolderInvChar	: 'The folder name cannot contain any of the following characters: \n\\ / : * ? " < > |',
 
 		PopupBlockView	: 'It was not possible to open the file in a new window. Please configure your browser and disable all popup blockers for this site.',
-		XmlError		: 'It was not possible to properly load the XML response from the web server.',
-		XmlEmpty		: 'It was not possible to load the XML response from the web server. The server returned an empty response.',
-		XmlRawResponse	: 'Raw response from the server: %s'
+		XmlError		: 'It was not possible to properly load the XML response from the web service.',
+		XmlEmpty		: 'It was not possible to load the XML response from the web service. The service returned an empty response.',
+		XmlRawResponse	: 'Raw response from the service: %s'
 	},
 
 	// Imageresize plugin

@@ -65,11 +65,11 @@ CKEDITOR.lang['ro'] =
 	// Common messages and labels.
 	common :
 	{
-		browseServer	: 'Răsfoieşte server',
+		browseServer	: 'Răsfoieşte service',
 		url				: 'URL',
 		protocol		: 'Protocol',
 		upload			: 'Încarcă',
-		uploadSubmit	: 'Trimite la server',
+		uploadSubmit	: 'Trimite la service',
 		image			: 'Imagine',
 		flash			: 'Flash',
 		form			: 'Formular (Form)',
@@ -416,7 +416,7 @@ CKEDITOR.lang['ro'] =
 		titleButton	: 'Proprietăţi buton imagine (Image Button)',
 		menu		: 'Proprietăţile imaginii',
 		infoTab		: 'Informaţii despre imagine',
-		btnUpload	: 'Trimite la server',
+		btnUpload	: 'Trimite la service',
 		upload		: 'Încarcă',
 		alt			: 'Text alternativ',
 		lockRatio	: 'Păstrează proporţiile',
@@ -712,7 +712,7 @@ CKEDITOR.lang['ro'] =
 		dic_restore		: 'Restore', // MISSING
 		dic_delete		: 'Delete', // MISSING
 		dic_rename		: 'Rename', // MISSING
-		dic_info		: 'Initially the User Dictionary is stored in a Cookie. However, Cookies are limited in size. When the User Dictionary grows to a point where it cannot be stored in a Cookie, then the dictionary may be stored on our server. To store your personal dictionary on our server you should specify a name for your dictionary. If you already have a stored dictionary, please type its name and click the Restore button.', // MISSING
+		dic_info		: 'Initially the User Dictionary is stored in a Cookie. However, Cookies are limited in size. When the User Dictionary grows to a point where it cannot be stored in a Cookie, then the dictionary may be stored on our service. To store your personal dictionary on our service you should specify a name for your dictionary. If you already have a stored dictionary, please type its name and click the Restore button.', // MISSING
 
 		aboutTab		: 'About' // MISSING
 	},

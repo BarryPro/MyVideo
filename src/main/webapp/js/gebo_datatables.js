@@ -9,7 +9,7 @@
 		gebo_datatbles.dt_c();
 		//* hideable columns
 		gebo_datatbles.dt_d();
-		//* server side proccessing with hiden row
+		//* service side proccessing with hiden row
 		gebo_datatbles.dt_e();
 	});
 	

@@ -222,7 +222,7 @@ CKFinder.lang['it'] =
 	202 : 'File invalido.',
 	203 : 'File invalido. La dimensione del file eccede i limiti del sistema.',
 	204 : 'Il file caricato è corrotto.',
-	205 : 'Il folder temporario non è disponibile new server.',
+	205 : 'Il folder temporario non è disponibile new service.',
 	206 : 'Upload annullato per motivi di sicurezza. Il file contiene dati in formatto HTML.',
 	207 : 'Il file caricato è stato rinominato a "%1".',
 	300 : 'Non è stato possibile muovere i file.',
@@ -244,9 +244,9 @@ CKFinder.lang['it'] =
 		FolderInvChar	: 'I seguenti caratteri non possono essere usati per comporre il nome della cartella: \n\\ / : * ? " < > |',
 
 		PopupBlockView	: 'Non è stato possile aprire il file in una nuova finestra. Prego configurare il browser e disabilitare i blocchi delle popup.',
-		XmlError		: 'Non è stato possibile caricare la risposta XML dal server.',
-		XmlEmpty		: 'Non è stato possibile caricare la risposta XML dal server. La risposta è vuota.',
-		XmlRawResponse	: 'Risposta originale inviata dal server: %s'
+		XmlError		: 'Non è stato possibile caricare la risposta XML dal service.',
+		XmlEmpty		: 'Non è stato possibile caricare la risposta XML dal service. La risposta è vuota.',
+		XmlRawResponse	: 'Risposta originale inviata dal service: %s'
 	},
 
 	// Imageresize plugin

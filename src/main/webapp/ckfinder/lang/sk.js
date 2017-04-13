@@ -112,7 +112,7 @@ CKFinder.lang['sk'] =
 	CopyFailedList		: 'The following files could not be copied:<br />%s', // MISSING
 
 	// Toolbar Buttons (some used elsewhere)
-	Upload		: 'Prekopírovať na server (Upload)',
+	Upload		: 'Prekopírovať na service (Upload)',
 	UploadTip	: 'Prekopírovať nový súbor',
 	Refresh		: 'Znovunačítať (Refresh)',
 	Settings	: 'Nastavenia',
@@ -150,7 +150,7 @@ CKFinder.lang['sk'] =
 
 	// Upload Panel
 	UploadTitle			: 'Nahrať nový súbor',
-	UploadSelectLbl		: 'Vyberte súbor, ktorý chcete prekopírovať na server',
+	UploadSelectLbl		: 'Vyberte súbor, ktorý chcete prekopírovať na service',
 	UploadProgressLbl	: '(Prebieha kopírovanie, čakajte prosím...)',
 	UploadBtn			: 'Prekopírovať vybratý súbor',
 	UploadBtnCancel		: 'Zrušiť',
@@ -165,7 +165,7 @@ CKFinder.lang['sk'] =
 	UploadLabel			: 'Súbory k nahratiu',
 	UploadTotalFiles	: 'Všetky súbory:',
 	UploadTotalSize		: 'Celková veľkosť:',
-	UploadSend			: 'Prekopírovať na server',
+	UploadSend			: 'Prekopírovať na service',
 	UploadAddFiles		: 'Pridať súbory',
 	UploadClearFiles	: 'Vyčistiť súbory',
 	UploadCancel		: 'Zrušiť nahratie',

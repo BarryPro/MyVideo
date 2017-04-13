@@ -65,11 +65,11 @@ CKEDITOR.lang['sk'] =
 	// Common messages and labels.
 	common :
 	{
-		browseServer	: 'Prechádzať server',
+		browseServer	: 'Prechádzať service',
 		url				: 'URL',
 		protocol		: 'Protokol',
 		upload			: 'Odoslať',
-		uploadSubmit	: 'Odoslať na server',
+		uploadSubmit	: 'Odoslať na service',
 		image			: 'Obrázok',
 		flash			: 'Flash',
 		form			: 'Formulár',
@@ -416,7 +416,7 @@ CKEDITOR.lang['sk'] =
 		titleButton	: 'Vlastnosti obrázkového tlačidla',
 		menu		: 'Vlastnosti obrázku',
 		infoTab		: 'Informácie o obrázku',
-		btnUpload	: 'Odoslať na server',
+		btnUpload	: 'Odoslať na service',
 		upload		: 'Odoslať',
 		alt			: 'Alternatívny text',
 		lockRatio	: 'Zámok',
@@ -712,7 +712,7 @@ CKEDITOR.lang['sk'] =
 		dic_restore		: 'Restore', // MISSING
 		dic_delete		: 'Delete', // MISSING
 		dic_rename		: 'Rename', // MISSING
-		dic_info		: 'Initially the User Dictionary is stored in a Cookie. However, Cookies are limited in size. When the User Dictionary grows to a point where it cannot be stored in a Cookie, then the dictionary may be stored on our server. To store your personal dictionary on our server you should specify a name for your dictionary. If you already have a stored dictionary, please type its name and click the Restore button.', // MISSING
+		dic_info		: 'Initially the User Dictionary is stored in a Cookie. However, Cookies are limited in size. When the User Dictionary grows to a point where it cannot be stored in a Cookie, then the dictionary may be stored on our service. To store your personal dictionary on our service you should specify a name for your dictionary. If you already have a stored dictionary, please type its name and click the Restore button.', // MISSING
 
 		aboutTab		: 'About' // MISSING
 	},

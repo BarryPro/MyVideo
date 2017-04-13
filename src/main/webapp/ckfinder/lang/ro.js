@@ -222,7 +222,7 @@ CKFinder.lang['ro'] =
 	202 : 'Fișier invalid.',
 	203 : 'Fișier invalid. Mărimea fișierului este prea mare.',
 	204 : 'Fișierul încărcat este corupt.',
-	205 : 'Niciun dosar temporar nu este disponibil pentru încărcarea pe server.',
+	205 : 'Niciun dosar temporar nu este disponibil pentru încărcarea pe service.',
 	206 : 'Încărcare anulată din motive de securitate. Fișierul conține date asemănătoare cu HTML.',
 	207 : 'Fișierul încărcat a fost redenumit cu "%1".',
 	300 : 'Mutare fișier(e) eșuată.',
@@ -246,7 +246,7 @@ CKFinder.lang['ro'] =
 		PopupBlockView	: 'Nu a fost posibilă deschiderea fișierului într-o fereastră nouă. Te rugăm să configurezi browser-ul și să dezactivezi toate popup-urile blocate pentru acest site.',
 		XmlError		: 'Nu a fost posibilă încărcarea în mod corespunzător a răspunsului XML de pe serverul web.',
 		XmlEmpty		: 'Nu a fost posibilă încărcarea răspunsului XML de pe serverul web. Serverul a returnat un răspuns gol.',
-		XmlRawResponse	: 'Răspuns brut de la server: %s'
+		XmlRawResponse	: 'Răspuns brut de la service: %s'
 	},
 
 	// Imageresize plugin

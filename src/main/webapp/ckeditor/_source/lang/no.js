@@ -65,7 +65,7 @@ CKEDITOR.lang['no'] =
 	// Common messages and labels.
 	common :
 	{
-		browseServer	: 'Bla igjennom server',
+		browseServer	: 'Bla igjennom service',
 		url				: 'URL',
 		protocol		: 'Protokoll',
 		upload			: 'Last opp',
@@ -712,7 +712,7 @@ CKEDITOR.lang['no'] =
 		dic_restore		: 'Gjenopprett',
 		dic_delete		: 'Slett',
 		dic_rename		: 'Gi nytt navn',
-		dic_info		: 'Brukerordboken lagres først i en informasjonskapsel på din maskin, men det er en begrensning på hvor mye som kan lagres her. Når ordboken blir for stor til å lagres i en informasjonskapsel, vil vi i stedet lagre ordboken på vår server. For å lagre din personlige ordbok på vår server, burde du velge et navn for ordboken din. Hvis du allerede har lagret en ordbok, vennligst skriv inn ordbokens navn og klikk på Gjenopprett-knappen.',
+		dic_info		: 'Brukerordboken lagres først i en informasjonskapsel på din maskin, men det er en begrensning på hvor mye som kan lagres her. Når ordboken blir for stor til å lagres i en informasjonskapsel, vil vi i stedet lagre ordboken på vår service. For å lagre din personlige ordbok på vår service, burde du velge et navn for ordboken din. Hvis du allerede har lagret en ordbok, vennligst skriv inn ordbokens navn og klikk på Gjenopprett-knappen.',
 
 		aboutTab		: 'Om'
 	},

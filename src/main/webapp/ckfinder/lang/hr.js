@@ -113,7 +113,7 @@ CKFinder.lang['hr'] =
 
 	// Toolbar Buttons (some used elsewhere)
 	Upload		: 'Pošalji',
-	UploadTip	: 'Pošalji nove datoteke na server',
+	UploadTip	: 'Pošalji nove datoteke na service',
 	Refresh		: 'Osvježi',
 	Settings	: 'Postavke',
 	Help		: 'Pomoć',
@@ -222,7 +222,7 @@ CKFinder.lang['hr'] =
 	202 : 'Neispravna datoteka.',
 	203 : 'Neispravna datoteka. Veličina datoteke je prevelika.',
 	204 : 'Poslana datoteka je neispravna.',
-	205 : 'Ne postoji privremeni direktorij za slanje na server.',
+	205 : 'Ne postoji privremeni direktorij za slanje na service.',
 	206 : 'Slanje je poništeno zbog sigurnosnih postavki. Naziv datoteke sadrži HTML podatke.',
 	207 : 'Poslana datoteka je promjenjena u "%1".',
 	300 : 'Premještanje datoteke(a) nije uspjelo.',

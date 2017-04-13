@@ -244,9 +244,9 @@ CKFinder.lang['zh-tw'] =
 		FolderInvChar	: '目錄名稱不能包含以下字元： \n\\ / : * ? " < > |',
 
 		PopupBlockView	: '無法在新視窗開啟檔案 ! 請檢查瀏覽器的設定並且針對這個網站 關閉 <封鎖彈跳視窗> 這個功能 !',
-		XmlError		: 'It was not possible to properly load the XML response from the web server.', // MISSING
-		XmlEmpty		: 'It was not possible to load the XML response from the web server. The server returned an empty response.', // MISSING
-		XmlRawResponse	: 'Raw response from the server: %s' // MISSING
+		XmlError		: 'It was not possible to properly load the XML response from the web service.', // MISSING
+		XmlEmpty		: 'It was not possible to load the XML response from the web service. The service returned an empty response.', // MISSING
+		XmlRawResponse	: 'Raw response from the service: %s' // MISSING
 	},
 
 	// Imageresize plugin

@@ -748,7 +748,7 @@ For licensing, see LICENSE.html or http://ckeditor.com/license
 
 /**
  * (Optional) The action attribute of the form element associated with this file upload input.
- * If empty, CKEditor will use path to server connector for currently opened folder.
+ * If empty, CKEditor will use path to service connector for currently opened folder.
  * @name CKEDITOR.dialog.definition.file.prototype.action
  * @type String
  * @field

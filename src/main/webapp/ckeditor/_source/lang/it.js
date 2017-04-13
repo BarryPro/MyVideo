@@ -65,11 +65,11 @@ CKEDITOR.lang['it'] =
 	// Common messages and labels.
 	common :
 	{
-		browseServer	: 'Cerca sul server',
+		browseServer	: 'Cerca sul service',
 		url				: 'URL',
 		protocol		: 'Protocollo',
 		upload			: 'Carica',
-		uploadSubmit	: 'Invia al server',
+		uploadSubmit	: 'Invia al service',
 		image			: 'Immagine',
 		flash			: 'Oggetto Flash',
 		form			: 'Modulo',
@@ -416,7 +416,7 @@ CKEDITOR.lang['it'] =
 		titleButton	: 'Proprietà bottone immagine',
 		menu		: 'Proprietà immagine',
 		infoTab		: 'Informazioni immagine',
-		btnUpload	: 'Invia al server',
+		btnUpload	: 'Invia al service',
 		upload		: 'Carica',
 		alt			: 'Testo alternativo',
 		lockRatio	: 'Blocca rapporto',
@@ -712,7 +712,7 @@ CKEDITOR.lang['it'] =
 		dic_restore		: 'Ripristina',
 		dic_delete		: 'Cancella',
 		dic_rename		: 'Rinomina',
-		dic_info		: 'Inizialmente il dizionario utente è memorizzato in un Cookie. I Cookie però hanno una dimensioni massima limitata. Quando il dizionario utente creasce a tal punto da non poter più essere memorizzato in un Cookie, allora il dizionario può essere memorizzato sul nostro server. Per memorizzare il proprio dizionario personale sul nostro server, è necessario specificare un nome per il proprio dizionario. Se avete già memorizzato un dizionario, inserite il nome che gli avete dato e premete il pulsante Ripristina.',
+		dic_info		: 'Inizialmente il dizionario utente è memorizzato in un Cookie. I Cookie però hanno una dimensioni massima limitata. Quando il dizionario utente creasce a tal punto da non poter più essere memorizzato in un Cookie, allora il dizionario può essere memorizzato sul nostro service. Per memorizzare il proprio dizionario personale sul nostro service, è necessario specificare un nome per il proprio dizionario. Se avete già memorizzato un dizionario, inserite il nome che gli avete dato e premete il pulsante Ripristina.',
 
 		aboutTab		: 'Info'
 	},

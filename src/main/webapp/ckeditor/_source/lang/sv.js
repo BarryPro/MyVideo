@@ -64,11 +64,11 @@ CKEDITOR.lang['sv'] =
 	// Common messages and labels.
 	common :
 	{
-		browseServer	: 'Bläddra på server',
+		browseServer	: 'Bläddra på service',
 		url				: 'URL',
 		protocol		: 'Protokoll',
 		upload			: 'Ladda upp',
-		uploadSubmit	: 'Skicka till server',
+		uploadSubmit	: 'Skicka till service',
 		image			: 'Bild',
 		flash			: 'Flash',
 		form			: 'Formulär',
@@ -415,7 +415,7 @@ CKEDITOR.lang['sv'] =
 		titleButton	: 'Egenskaper för bildknapp',
 		menu		: 'Bildegenskaper',
 		infoTab		: 'Bildinformation',
-		btnUpload	: 'Skicka till server',
+		btnUpload	: 'Skicka till service',
 		upload		: 'Ladda upp',
 		alt			: 'Alternativ text',
 		lockRatio	: 'Lås höjd/bredd förhållanden',
@@ -711,7 +711,7 @@ CKEDITOR.lang['sv'] =
 		dic_restore		: 'Återställ',
 		dic_delete		: 'Ta bort',
 		dic_rename		: 'Byt namn',
-		dic_info		: 'Inledningsvis lagras ordlistan i en cookie. När ordlista växer till en punkt där det inte kan lagras i en cookie, lagras den på vår server. För att lagra din personliga ordlista på vår server du ska ange ett namn för din ordbok. Om du redan har en lagrad ordbok, skriv namnet och klicka på knappen Återställ.',
+		dic_info		: 'Inledningsvis lagras ordlistan i en cookie. När ordlista växer till en punkt där det inte kan lagras i en cookie, lagras den på vår service. För att lagra din personliga ordlista på vår service du ska ange ett namn för din ordbok. Om du redan har en lagrad ordbok, skriv namnet och klicka på knappen Återställ.',
 
 		aboutTab		: 'Om'
 	},

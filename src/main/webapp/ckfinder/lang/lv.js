@@ -244,9 +244,9 @@ CKFinder.lang['lv'] =
 		FolderInvChar	: 'Mapes nosaukums nedrīkst saturēt nevienu no sekojošajām zīmēm: \n\\ / : * ? " < > |',
 
 		PopupBlockView	: 'Nav iespējams failu atvērt jaunā logā. Lūdzu veiciet izmaiņas uzstādījumos savai interneta pārlūkprogrammai un izslēdziet visus uznirstošo logu bloķētājus šai adresei.',
-		XmlError		: 'It was not possible to properly load the XML response from the web server.', // MISSING
-		XmlEmpty		: 'It was not possible to load the XML response from the web server. The server returned an empty response.', // MISSING
-		XmlRawResponse	: 'Raw response from the server: %s' // MISSING
+		XmlError		: 'It was not possible to properly load the XML response from the web service.', // MISSING
+		XmlEmpty		: 'It was not possible to load the XML response from the web service. The service returned an empty response.', // MISSING
+		XmlRawResponse	: 'Raw response from the service: %s' // MISSING
 	},
 
 	// Imageresize plugin

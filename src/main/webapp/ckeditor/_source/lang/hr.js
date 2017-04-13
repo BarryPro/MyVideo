@@ -65,11 +65,11 @@ CKEDITOR.lang['hr'] =
 	// Common messages and labels.
 	common :
 	{
-		browseServer	: 'Pretraži server',
+		browseServer	: 'Pretraži service',
 		url				: 'URL',
 		protocol		: 'Protokol',
 		upload			: 'Pošalji',
-		uploadSubmit	: 'Pošalji na server',
+		uploadSubmit	: 'Pošalji na service',
 		image			: 'Slika',
 		flash			: 'Flash',
 		form			: 'Form',
@@ -416,7 +416,7 @@ CKEDITOR.lang['hr'] =
 		titleButton	: 'Image Button svojstva',
 		menu		: 'Svojstva slika',
 		infoTab		: 'Info slike',
-		btnUpload	: 'Pošalji na server',
+		btnUpload	: 'Pošalji na service',
 		upload		: 'Pošalji',
 		alt			: 'Alternativni tekst',
 		lockRatio	: 'Zaključaj odnos',
@@ -712,7 +712,7 @@ CKEDITOR.lang['hr'] =
 		dic_restore		: 'Povrati',
 		dic_delete		: 'Obriši',
 		dic_rename		: 'Promijeni naziv',
-		dic_info		: 'Na početku se korisnički Riječnik sprema u Cookie. Nažalost, veličina im je ograničena. Kada korisnički Riječnik naraste preko te veličine, Riječnik će biti smješten na naš server. Kako bi se korisnički Riječnik spremio na naš server morate odabrati naziv Vašeg Riječnika. Ukoliko ste već prije spremali Riječnik na naše servere, unesite naziv Riječnika i pritisnite na Povrati.',
+		dic_info		: 'Na početku se korisnički Riječnik sprema u Cookie. Nažalost, veličina im je ograničena. Kada korisnički Riječnik naraste preko te veličine, Riječnik će biti smješten na naš service. Kako bi se korisnički Riječnik spremio na naš service morate odabrati naziv Vašeg Riječnika. Ukoliko ste već prije spremali Riječnik na naše servere, unesite naziv Riječnika i pritisnite na Povrati.',
 
 		aboutTab		: 'O SCAYT'
 	},

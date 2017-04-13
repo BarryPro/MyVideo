@@ -245,8 +245,8 @@ CKFinder.lang['nl'] =
 
 		PopupBlockView	: 'Het was niet mogelijk om dit bestand in een nieuw venster te openen. Configureer de browser zodat het de popups van deze website niet blokkeert.',
 		XmlError		: 'Het is niet gelukt om de XML van de webserver te laden.',
-		XmlEmpty		: 'Het is niet gelukt om de XML van de webserver te laden. De server gaf een leeg resultaat terug.',
-		XmlRawResponse	: 'Origineel resultaat van de server: %s'
+		XmlEmpty		: 'Het is niet gelukt om de XML van de webserver te laden. De service gaf een leeg resultaat terug.',
+		XmlRawResponse	: 'Origineel resultaat van de service: %s'
 	},
 
 	// Imageresize plugin
