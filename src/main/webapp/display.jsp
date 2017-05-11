@@ -11,7 +11,7 @@
                 <div class="clearfix"></div>
             </div>
         </div>
-        <!--分页 页-->
+        <!--分页-->
         <%@include file="page.jsp"%>
     </div>
 </div>>
